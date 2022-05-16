@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 4300,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 300,
+      "quantity": 900,
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "price": 400,
+      "quantity": 700,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "AAAAA",
+      "price": 800,
+      "quantity": 200,
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 12,
+      "name": "bbb",
+      "price": 800,
+      "quantity": 200,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 14,
+      "name": "Ka",
+      "price": 22,
+      "quantity": 333,
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "dsvs",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 15
+    }
+  ]
+}
